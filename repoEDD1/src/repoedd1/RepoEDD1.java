@@ -14,7 +14,7 @@ public class RepoEDD1 {
     /**
      * @param args the command line arguments
      */
-    int a, b;
+    int a;
     void EsA (){
             System.out.println ("EsA: "+ a);
     }

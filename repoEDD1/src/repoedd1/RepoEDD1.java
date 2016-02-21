@@ -14,10 +14,13 @@ public class RepoEDD1 {
     /**
      * @param args the command line arguments
      */
-    int a;
+    int a, b;
     void EsA (){
             System.out.println ("EsA: "+ a);
     }
+    void EsB (){
+        System.out.println ("Esb: "+ b);
+}
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println ("IDE Netbeans");

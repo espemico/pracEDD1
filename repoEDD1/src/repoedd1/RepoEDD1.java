@@ -16,7 +16,13 @@ public class RepoEDD1 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-   System.out.println("IDE Netbeans");
+<<<<<<< HEAD
+        System.out.println("IDE Netbeans");
+    	System.out.print ("Hello World.");
+    	System.out.println ("IDE Eclipse");
+    	System.out.println ("IDE Eclipse II");
+
+>>>>>>> 49bcffeb652c50ed0aeb24260e9afee72e4d6f2a
     }
     
 }

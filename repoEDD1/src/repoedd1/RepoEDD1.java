@@ -21,8 +21,6 @@ public class RepoEDD1 {
     	System.out.print ("Hello World.");
     	System.out.println ("IDE Eclipse");
     	System.out.println ("IDE Eclipse II");
-
->>>>>>> 49bcffeb652c50ed0aeb24260e9afee72e4d6f2a
     }
     
 }

@@ -16,12 +16,17 @@ public class RepoEDD1 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+<<<<<<< HEAD
+        System.out.println("IDE Netbeans");
     	System.out.print ("Hello World.");
     	System.out.println ("IDE Eclipse");
     	System.out.println ("IDE Eclipse II");
+<<<<<<< HEAD
     	System.out.println ("Branca Eclipse");
 
 
+=======
+>>>>>>> refs/remotes/origin/master
     }
     
 }
